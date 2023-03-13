@@ -202,3 +202,10 @@ nav ul :hover::after{
                 .depoimentos .card-item:hover .estrelas i {
                     color: white;
                 }
+
+
+                /*clientes*/
+
+                .clientes h3 , .clientes p{
+text-align: center;
+                }
